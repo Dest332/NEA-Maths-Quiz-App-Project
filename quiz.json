@@ -1,0 +1,610 @@
+{
+    "topics": {
+        "Differentiation": {
+            "Level 1": [
+                {
+                    "question": "What is the derivative of f(x) = 3x^2 + 2x + 1?",
+                    "options": [
+                        "6x + 2",
+                        "3x + 2",
+                        "6x^2 + 2",
+                        "3x^2 + 2x"
+                    ],
+                    "answer": "6x + 2"
+                },
+                {
+                    "question": "Find the derivative of f(x) = 5x^3.",
+                    "options": [
+                        "5x^2",
+                        "15x^2",
+                        "15x^3",
+                        "5x^3"
+                    ],
+                    "answer": "15x^2"
+                },
+                {
+                    "question": "What is the derivative of f(x) = sin(x)?",
+                    "options": [
+                        "sin(x)",
+                        "-cos(x)",
+                        "-sin(x)",
+                        "cos(x)"
+                    ],
+                    "answer": "cos(x)"
+                },
+                {
+                    "question": "Find the derivative of f(x) = e^x.",
+                    "options": [
+                        "e^x + 1",
+                        "e^(x+1)",
+                        "e^x",
+                        "e^(x-1)"
+                    ],
+                    "answer": "e^x"
+                },
+                {
+                    "question": "What is the derivative of f(x) = ln(x)?",
+                    "options": [
+                        "1/x",
+                        "x",
+                        "ln(x)",
+                        "1/ln(x)"
+                    ],
+                    "answer": "1/x"
+                },
+                {
+                    "question": "Find the derivative of f(x) = 4x^4.",
+                    "options": [
+                        "16x^4",
+                        "4x^3",
+                        "16x^3",
+                        "4x^4"
+                    ],
+                    "answer": "16x^3"
+                },
+                {
+                    "question": "What is the derivative of f(x) = cos(x)?",
+                    "options": [
+                        "sin(x)",
+                        "-sin(x)",
+                        "-cos(x)",
+                        "cos(x)"
+                    ],
+                    "answer": "-sin(x)"
+                },
+                {
+                    "question": "Find the derivative of f(x) = 7x^5.",
+                    "options": [
+                        "35x^5",
+                        "7x^4",
+                        "35x^4",
+                        "7x^5"
+                    ],
+                    "answer": "35x^4"
+                },
+                {
+                    "question": "What is the derivative of f(x) = tan(x)?",
+                    "options": [
+                        "sec^2(x)",
+                        "sec(x)",
+                        "tan^2(x)",
+                        "tan(x)"
+                    ],
+                    "answer": "sec^2(x)"
+                },
+                {
+                    "question": "Find the derivative of f(x) = 2x^6.",
+                    "options": [
+                        "12x^4",
+                        "2x^5",
+                        "12x^5",
+                        "2x^6"
+                    ],
+                    "answer": "12x^5"
+                }
+            ],
+            "Level 2": [
+                {
+                    "question": "Use Product Rule to find the derivative of f(x) = (x^2 + 3x + 2)(x + 1).",
+                    "options": [
+                        "3x^2 + 8x + 5",
+                        "3x^2 + 2x + 3",
+                        "3x^2 + 3x + 2",
+                        "3x^2 + x + 1"
+                    ],
+                    "answer": "3x^2 + 8x + 5"
+                },
+                {
+                    "question": "Use Quotient Rule to find what is the derivative of f(x) = (x^3 + 2x)/(x + 1)?",
+                    "options": [
+                        "(3x^3 + 3x^2 + 2)/(x + 1)^2",
+                        "(3x^3 + 3x^2 + 2)/(x + 1)^3",
+                        "(2x^3 + 3x^2 + 2)/(x + 1)^2",
+                        "(2x^3 + x^2 + 2)/(3x + 1)^2"
+                    ],
+                    "answer": "(2x^3 + 3x^2 + 2)/(x + 1)^2"
+                },
+                {
+                    "question": " Use use of double angle formula to find the derivative of f(x) = sin(x) * cos(x).",
+                    "options": [
+                        "cos(2x) - sin(2x)",
+                        "sin(2x)",
+                        "cos(2x)",
+                        "cos^2(x) + sin^2(x)"
+                    ],
+                    "answer": "cos(2x)"
+                },
+                {
+                    "question": "Use Chain Rule to find what is the derivative of f(x) = e^(2x)?",
+                    "options": [
+                        "e^(2x)",
+                        "2e^(2x)",
+                        "2e^x",
+                        "e^x"
+                    ],
+                    "answer": "2e^(2x)"
+                },
+                {
+                    "question": "Find the derivative of f(x) = ln(x^2).",
+                    "options": [
+                        "2/x",
+                        "1/x",
+                        "2x",
+                        "x^2"
+                    ],
+                    "answer": "2/x"
+                },
+                {
+                    "question": "What is the derivative of f(x) = sqrt(x)?",
+                    "options": [
+                        "sqrt(x)",
+                        "1/(2sqrt(x))",
+                        "1/sqrt(x)",
+                        "2sqrt(x)"
+                    ],
+                    "answer": "1/(2sqrt(x))"
+                },
+                {
+                    "question": "Use product rule to find the derivative of f(x) = x * e^x.",
+                    "options": [
+                        "e^x",
+                        "e^x (x + 1)",
+                        "x * e^x",
+                        "e^x (x - 1)"
+                    ],
+                    "answer": "e^x (x + 1)"
+                },
+                {
+                    "question": "Use Chain Rule to find what is the derivative of f(x) = tan^2(x)?",
+                    "options": [
+                        "2tan(x)",
+                        "tan(x)sec^2(x)",
+                        "2tan(x)sec^2(x)",
+                        "tan^2(x)"
+                    ],
+                    "answer": "2tan(x)sec^2(x)"
+                },
+                {
+                    "question": "Use Product Rule to find the derivative of f(x) = x^2 * ln(x).",
+                    "options": [
+                        "x(ln(x) + 1)",
+                        "x^2 * ln(x)",
+                        "2x * ln(x)",
+                        "x(2ln(x) + 1)"
+                    ],
+                    "answer": "x(2ln(x) + 1)"
+                },
+                {
+                    "question": "Use Product Rule to find What is the derivative of f(x) = (x^2 + 1)/3x+1?",
+                    "options": [
+                        "6x(x^2 + 1)^2",
+                        "3x^2+2x-1/(3x+1)^2",
+                        "6x(x^2 + 1)/(3x+1)^2",
+                        "3x(x^2 + 1)/(3x+1)^2"
+                    ],
+                    "answer": "3x^2+2x-1/(3x+1)^2"
+                }
+            ],
+            "Level 3": [
+                {
+                    "question": "Find the coordinates of turning point of y= (x) * ln(x)",
+                     "options": [
+                        "(e,e)",
+                        "(1/e,1/e)",
+                        "(1/e,-1/e)",
+                        "(e,1/e)"
+                    ],
+                    "answer": "(1/e,-1/e)"
+                },
+                {
+                    "question":"Find equation of tangent to y=(x^2+3x+2)cos2x at point where the curve crosses y axis?",
+                    "options": [
+                        "y=3x+2",
+                        "y=2x+3",
+                        "y=-2x+3",
+                        "y=3x"
+                    ],
+                    "answer": "y=3x+2"
+                },
+                {
+                    "question": "find equation of normal of y=e^x*sin(2x) where x=(pi).",
+                    "options": [
+                        "y + 2xe^(pi) = (pi)",
+                        "2y + xe^(pi) = (pi) ",
+                        "x + 2ye^(pi) = π(pi)",
+                        "2x + ye^(pi) = (pi)"
+                    ],
+                    "answer": "x + 2ye^(pi) = (pi)"
+                },
+                {
+                    "question": "What is the derivative of f(x) = sqrt(x^3 + 1)?",
+                    "options": [
+                        "(3x^2)/(2sqrt(x^3 + 1))",
+                        "sqrt(x^3 + 1)",
+                        "3x^2/(x^3 + 1)",
+                        "3x^2/(2sqrt(x^3 + 1))"
+                    ],
+                    "answer": "(3x^2)/(2sqrt(x^3 + 1))"
+                },
+                {
+                    "question": "find second derivative where x=1 for y+4x^2ln(3x-1) ",
+                    "options": [
+                        "15 - 8ln2",
+                        "8 + 15ln2",
+                        "7 + 12ln2",
+                        "15 + 8ln2"
+                    ],
+                    "answer": "15 + 8ln2"
+                },
+                {
+                    "question": "What is the derivative of f(x) = tan(sin(x))?",
+                    "options": [
+                        "sec^2(sin(x)) * cos(x)",
+                        "sec^2(sin(x))",
+                        "tan(sin(x))",
+                        "cos(x)"
+                    ],
+                    "answer": "sec^2(sin(x)) * cos(x)"
+                },
+                {
+                    "question": "Find the derivative of f(x) = ln(x^3 + 1).",
+                    "options": [
+                        "(3x^2)/(x^3 + 1)",
+                        "3x^2",
+                        "ln(x^3 + 1)",
+                        "1/(x^3 + 1)"
+                    ],
+                    "answer": "(3x^2)/(x^3 + 1)"
+                },
+                {
+                    "question": "find exact stationary point of y= sin(x)/2-cos(x)?",
+                    "options": [
+                        "(pi)/3,-1/3root(3)",
+                        "(pi)/3,3root(3)",
+                        "(pi)/3,1/3root(3)",
+                        "(pi)/2,3root(3)"
+                    ],
+                    "answer": "(pi)/3,1/3root(3)"
+                },
+                {
+                    "question": "find the value of the second derivative of y=x - √sin(x) when sin(x) = 1/4 ",
+                    "options": [
+                        "8/17",
+                        "17/8",
+                        "17/16",
+                        "4/7"
+                    ],
+                    "answer": "17/8"
+                },
+                {
+                    "question": "By differentiating y=e^xln2, find derivative of y= 2^x",
+                    "options": [
+                        "2x^xln2",
+                        "2xln2",
+                        "2^xln2",
+                        "2ln2"
+                    ],
+                    "answer": "2^xln2"
+                }
+            ]
+        },
+        "Integration": {
+            "Level 1": [
+                {
+                    "question": "What is the integral of f(x) = 3x^2?",
+                    "options": [
+                        "x^3 + C",
+                        "3x^3 + C",
+                        "x^2 + C",
+                        "3x^2 + C"
+                    ],
+                    "answer": "x^3 + C"
+                },
+                {
+                    "question": "Find the integral of f(x) = 2x.",
+                    "options": [
+                        "2x + C",
+                        "2x^2 + C",
+                        "x + C",
+                        "x^2 + C"
+                    ],
+                    "answer": "x^2 + C"
+                },
+                {
+                    "question": "What is the integral of f(x) = cos(x)?",
+                    "options": [
+                        "sin(x) + C",
+                        "-sin(x) + C",
+                        "cos(x) + C",
+                        "-cos(x) + C"
+                    ],
+                    "answer": "sin(x) + C"
+                },
+                {
+                    "question": "Find the integral of f(x) = e^x.",
+                    "options": [
+                        "e^(x+1) + C",
+                        "e^x + C",
+                        "x * e^x + C",
+                        "e^(x-1) + C"
+                    ],
+                    "answer": "e^x + C"
+                },
+                {
+                    "question": "What is the integral of f(x) = 1/x?",
+                    "options": [
+                        "x + C",
+                        "ln|x| + C",
+                        "ln(x) + C",
+                        "1/ln(x) + C"
+                    ],
+                    "answer": "ln|x| + C"
+                },
+                {
+                    "question": "Find the integral of f(x) = 4x^3.",
+                    "options": [
+                        "4x^3 + C",
+                        "4x^4 + C",
+                        "x^3 + C",
+                        "x^4 + C"
+                    ],
+                    "answer": "x^4 + C"
+                },
+                {
+                    "question": "What is the integral of f(x) = sin(x)?",
+                    "options": [
+                        "cos(x) + C",
+                        "-cos(x) + C",
+                        "-sin(x) + C",
+                        "sin(x) + C"
+                    ],
+                    "answer": "-cos(x) + C"
+                },
+                {
+                    "question": "Find the integral of f(x) = 5x^4.",
+                    "options": [
+                        "5x^4 + C",
+                        "5x^5 + C",
+                        "x^4 + C",
+                        "x^5 + C"
+                    ],
+                    "answer": "x^5 + C"
+                },
+                {
+                    "question": "What is the integral of f(x) = sec^2(x)?",
+                    "options": [
+                        "tan^2(x) + C",
+                        "sec(x) + C",
+                        "tan(x) + C",
+                        "sec(x)tan(x) + C"
+                    ],
+                    "answer": "tan(x) + C"
+                },
+                {
+                    "question": "Find the integral of f(x) = 6x^5.",
+                    "options": [
+                        "x^5 + C",
+                        "6x^6 + C",
+                        "x^6 + C",
+                        "6x^5 + C"
+                    ],
+                    "answer": "x^6 + C"
+                }
+            ],
+            "Level 2": [
+                {
+                    "question": "Use Reverse Chain Rule to find the integral of f(x) = 3cos(3x)",
+                    "options": [
+                        "cos(3x) + C ",
+                        "sin(3x) + C",
+                        "1/3sin(3x) + C",
+                        "1/3cos(3x) + C"
+                    ],
+                    "answer": "sin(3x) + C"
+                },
+                {
+                    "question": "Use Reverse Chain Rule to find the integral of f(x) = (2x+5)^3",
+                    "options": [
+                        "(2x+5)+ C",
+                        "1/4(2x+5)^4+ C",
+                        "1/8(2x+5)^4 + C",
+                        "(2x+5)^4+ C"
+                    ],
+                    "answer": "1/8(2x+5)^4 + C"
+                },
+                {
+                    "question": "Find the integral of f(x) = sin(x) * cos(x).",
+                    "options": [
+                        "sin(x) + cos(x) + C",
+                        "(sin^2(x))/2 + C",
+                        "sin(x) * cos(x) + C",
+                        "cos(x) - sin(x) + C"
+                    ],
+                    "answer": "(sin^2(x))/2 + C"
+                },
+                {
+                    "question": "What is the integral of f(x) = e^(2x)?",
+                    "options": [
+                        "e^x + C",
+                        "e^(2x) + C",
+                        "2e^x + C",
+                        "(e^(2x))/2 + C"
+                    ],
+                    "answer": "(e^(2x))/2 + C"
+                },
+                {
+                    "question": "Find the integral of f(x) = (3x^2+2)/(x^3+2x)",
+                    "options": [
+                        "ln(3x^2+2) + C",
+                        "ln(x^3) + C",
+                        "ln(x^3+2x) + C",
+                        "ln(X^3-2x) - 2x + C"
+                    ],
+                    "answer": "ln(x^3+2x) + C"
+                },
+                {
+                    "question": "What is the integral of f(x) = (2x^3)/(5x^4-3)?",
+                    "options": [
+                        "(5x^4-3)+ C",
+                        "1/5ln(5x^4-3) + C",
+                        "ln(5x^4-3)+ C",
+                        "1/10ln(5x^4-3) + C"
+                    ],
+                    "answer": "1/10ln(5x^4-3) + C"
+                },
+                {
+                    "question": "Use integration by parts to Find the integral of f(x) = ln(x).",
+                    "options": [
+                        "xln(x) - x + C",
+                        "xln(x) + x + C",
+                        "xln(x) + C",
+                        "1/xln(x) + C"
+                    ],
+                    "answer": "xln(x) - x + C"
+                },
+                {
+                    "question": "What is the integral of f(x) = tan^2(x)?",
+                    "options": [
+                        "tan(x) + C",
+                        "tan(x) - x + C",
+                        "2tan(x) + C",
+                        "tan^2(x) + C"
+                    ],
+                    "answer": "tan(x) - x + C"
+                },
+                {
+                    "question": "Use integration by parts to find the integral of f(x) = x^2 * ln(x).",
+                    "options": [
+                        "(x^3 ln(x))/9 - (x^3)/3+ C",
+                        "(x^3 ln(x))/3 - (x^3)/3 + C",
+                        "(x^3 ln(x))/9 - (x^3)/9 + C",
+                        "(x^3 ln(x))/3 - (x^3)/9 + C"
+                    ],
+                    "answer": "(x^3 ln(x))/3 - (x^3)/9 + C"
+                },
+                {
+                    "question": "Use integration by parts to find the integral of f(x) = x^2cos(x)?",
+                    "options": [
+                        "(x^2-2)sin(x) + (2x)sec(x) + C",
+                        "(x-2)sin(x) + (2x)cos(x) + C",
+                        "(x^2-2)sin(x) + (2x)cos(x) + C",
+                        "(x^2-2)cos(x) + (2x)sin(x)+ C"
+                    ],
+                    "answer": "(x^2-2)sin(x) + (2x)cos(x) + C"
+                }
+            ],
+            "Level 3": [
+                {
+                    "question": "Find the integral of f(x) = sin(2x).",
+                    "options": [
+                        "1/2x - 1/4 cos(4x) + C",
+                        "1/2x + 1/4 cos(4x) + C",
+                        "2x sin(x^2) + C",
+                        "sin(x^2) + C"
+                    ],
+                    "answer": "1/2x - 1/4 cos(4x) + C"
+                },
+                {
+                    "question": "What is the integral of f(x) = 1/x^2 - x + 1?",
+                    "options": [
+                        "ln(2x-1) + C",
+                        "(3root(3))/8 tan-1((2/root(3)(x−12))) + C",
+                        "3x^2 e^(x^3) + C",
+                        "tan-1((x-3)) + C"
+                    ],
+                    "answer": "(3root(3))/8 tan-1((2/root(3)(x−12))) + C"
+                },
+                {
+                    "question": " u = 1 + x^2e^-3x Find the integral of f(x) = x(2-3x)/e^3x + x^2.",
+                    "options": [
+                        "x^3 + 3x -4 ",
+                        "ln(sin(x)) + C",
+                        "cot(x) + C",
+                        "ln(1 + x^2e^-3x) + C"
+                    ],
+                    "answer": "ln(1 + x^2e^-3x) + C"
+                },
+                {
+                    "question": "u = lnx What is the integral of f(x) (limits: e,3)= 1/x lnx?",
+                    "options": [
+                        "ln(ln4) ",
+                        "sqrt(x^3 + 1)",
+                        "ln(ln3)",
+                        "lnx"
+                    ],
+                    "answer": "ln(ln3)"
+                },
+                {
+                    "question": "Find the integral of f(x) = x^2 * e^(2x).",
+                    "options": [
+                        "(x^2 e^(2x))/2 - (x e^(2x))/2 + (e^(2x))/4 + C",
+                        "(x^2 e^(2x))/4 - (x e^(2x))/2 + (e^(2x))/4 + C",
+                        "(x^2 e^(2x))/4 - (x e^(2x))/2 + (e^(2x))/2 + C",
+                        "(x^2 e^(2x))/2 - (x e^(2x))/4 + (e^(2x))/4 + C"
+                    ],
+                    "answer": "(x^2 e^(2x))/2 - (x e^(2x))/2 + (e^(2x))/4 + C"
+                },
+                {
+                    "question": "What is the integral of f(x) = cot(x)?",
+                    "options": [
+                        "ln(tan(x))",
+                        "ln(sec(x)) + C",
+                        "ln(cos(x)) + C",
+                        "ln(sin(x)) + C"
+                    ],
+                    "answer": "ln(sin(x)) + C"
+                },
+                {
+                    "question": " Use Partial Fractions to find the integral of f(x) = 3/x^2+5x+4.",
+                    "options": [
+                        "ln(x+1)-ln(x+4) + C",
+                        "ln(x+1)-ln(x-4) + C",
+                        "ln(x+1)+ln(x+4) + C",
+                        "ln(x+4)-ln(x+1) + C"
+                    ],
+                    "answer": "ln(x+1)-ln(x+4) + C"
+                },
+                {
+                    "question": "Find general solution to differential equation dy/dx=9(y+2)root(x)",
+                    "options": [
+                        "y = A(e^6x^3/2) + 2",
+                        "y = A(e^6x^3/2) - 2",
+                        "y = A(e^3x^3/2) - 2",
+                        "y = A(e^6x) + 2"
+                    ],
+                    "answer": "y = A(e^6x^3/2) - 2"
+                },
+                {
+                    "question": "Find the integral of f(x) = x^3 * ln(x^2).",
+                    "options": [
+                        "(x^4 ln(x^2))/4 - (x^4)/8 + C",
+                        "x^3 * ln(x^2) + C",
+                        "(x^4 ln(x^2))/4 + C",
+                        "x^4 ln(x^2) + C"
+                    ],
+                    "answer": "(x^4 ln(x^2))/4 - (x^4)/8 + C"
+                }
+            ]
+        }
+    }
+}

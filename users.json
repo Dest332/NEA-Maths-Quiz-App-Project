@@ -1,0 +1,213 @@
+{
+    "users": {
+        "Sebastian": {
+            "quiz_results": [
+                {
+                    "topic": "Differentiation",
+                    "level": "Level 1",
+                    "score": 100
+                },
+                {
+                    "topic": "Differentiation",
+                    "level": "Level 2",
+                    "score": 66
+                },
+                {
+                    "topic": "Differentiation",
+                    "level": "Level 3",
+                    "score": 50
+                },
+                {
+                    "topic": "Differentiation",
+                    "level": "Level 1",
+                    "score": 100
+                },
+                {
+                    "topic": "Differentiation",
+                    "level": "Level 2",
+                    "score": 66
+                },
+                {
+                    "topic": "Differentiation",
+                    "level": "Level 3",
+                    "score": 50
+                },
+                {
+                    "topic": "Integration",
+                    "level": "Level 1",
+                    "score": 66
+                },
+                {
+                    "topic": "Integration",
+                    "level": "Level 2",
+                    "score": 66
+                },
+                {
+                    "topic": "Integration",
+                    "level": "Level 3",
+                    "score": 50
+                }
+            ]
+        },
+        "Destiny": {
+            "quiz_results": [
+                {
+                    "topic": "Differentiation",
+                    "level": "Level 1",
+                    "score": 100
+                },
+                {
+                    "topic": "Differentiation",
+                    "level": "Level 2",
+                    "score": 100
+                },
+                {
+                    "topic": "Differentiation",
+                    "level": "Level 3",
+                    "score": 83
+                },
+                {
+                    "topic": "Integration",
+                    "level": "Level 1",
+                    "score": 100
+                },
+                {
+                    "topic": "Integration",
+                    "level": "Level 2",
+                    "score": 100
+                },
+                {
+                    "topic": "Integration",
+                    "level": "Level 3",
+                    "score": 83
+                }
+            ]
+        },
+        "Molly": {
+            "quiz_results": [
+                {
+                    "topic": "Differentiation",
+                    "level": "Level 1",
+                    "score": 42
+                },
+                {
+                    "topic": "Differentiation",
+                    "level": "Level 2",
+                    "score": 100
+                },
+                {
+                    "topic": "Differentiation",
+                    "level": "Level 3",
+                    "score": 0
+                },
+                {
+                    "topic": "Integration",
+                    "level": "Level 1",
+                    "score": 66
+                },
+                {
+                    "topic": "Integration",
+                    "level": "Level 2",
+                    "score": 80
+                },
+                {
+                    "topic": "Integration",
+                    "level": "Level 3",
+                    "score": 0
+                }
+            ]
+        },
+        "Joella": {
+            "quiz_results": [
+                {
+                    "topic": "Differentiation",
+                    "level": "Level 1",
+                    "score": 71
+                },
+                {
+                    "topic": "Differentiation",
+                    "level": "Level 2",
+                    "score": 33
+                },
+                {
+                    "topic": "Differentiation",
+                    "level": "Level 3",
+                    "score": 0
+                },
+                {
+                    "topic": "Integration",
+                    "level": "Level 1",
+                    "score": 100
+                },
+                {
+                    "topic": "Integration",
+                    "level": "Level 2",
+                    "score": 50
+                },
+                {
+                    "topic": "Integration",
+                    "level": "Level 3",
+                    "score": 100
+                }
+            ]
+        },
+        "Priscilla": {
+            "quiz_results": [
+                {
+                    "topic": "Differentiation",
+                    "level": "Level 1",
+                    "score": 42
+                },
+                {
+                    "topic": "Differentiation",
+                    "level": "Level 2",
+                    "score": 42
+                },
+                {
+                    "topic": "Differentiation",
+                    "level": "Level 3",
+                    "score": 33
+                },
+                {
+                    "topic": "Integration",
+                    "level": "Level 1",
+                    "score": 42
+                },
+                {
+                    "topic": "Integration",
+                    "level": "Level 2",
+                    "score": 33
+                },
+                {
+                    "topic": "Integration",
+                    "level": "Level 3",
+                    "score": 33
+                }
+            ]
+        }
+    },
+    "Amin": {
+        "password": "amin123",
+        "is_teacher": true
+    },
+    "Sebastian": {
+        "password": "seb123",
+        "is_teacher": false
+    },
+    "Destiny": {
+        "password": "dest123",
+        "is_teacher": false
+    },
+    "Molly": {
+        "password": "molly123",
+        "is_teacher": false
+    },
+    "Joella": {
+        "password": "joella",
+        "is_teacher": false
+    },
+    "Priscilla": {
+        "password": "pris123",
+        "is_teacher": false
+    }
+}
